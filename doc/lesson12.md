@@ -1,6 +1,6 @@
 # Стажировка <a href="https://github.com/JavaWebinar/topjava">Topjava</a>
 
-## [Патчи занятия](https://drive.google.com/drive/u/1/folders/1ZsPX879m6x4Va0Wy3D1EQIBsnZUOOvao)
+## [Патчи занятия](https://drive.google.com/drive/u/1/folders/1sizknxR29Yu7XXjaVIBdS88ffXiVuqiB)
 
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Финальные правки:
 
